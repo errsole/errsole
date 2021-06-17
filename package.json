@@ -1,7 +1,7 @@
 {
   "name": "errsole",
   "description": "errsole npm module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Rishi Kumar <rishi@errsole.com>",
   "contributors": [
     "Rishi Kumar <rishi@errsole.com>",
@@ -22,7 +22,7 @@
   "files": [
     "lib"
   ],
-  "main": "lib/errsole.js",
+  "main": "lib/errsole",
   "dependencies": {
     "ascii-art": "^2.5.0",
     "autobahn": "^20.6.1",
