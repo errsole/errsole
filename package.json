@@ -24,17 +24,11 @@
   ],
   "main": "lib/errsole",
   "dependencies": {
-    "ascii-art": "^2.5.0",
     "autobahn": "^20.6.1",
     "chrome-remote-interface": "^0.28.1",
-    "cookie-parser": "^1.4.4",
-    "express-session": "^1.17.0",
     "form-data": "^3.0.0",
     "jsonpath": "^1.1.0",
-    "multer": "^1.4.2",
-    "slash": "^3.0.0"
-  },
-  "devDependencies": {
-    "express": "^4.17.1"
+    "slash": "^3.0.0",
+    "terminal-link": "^2.1.1"
   }
 }
