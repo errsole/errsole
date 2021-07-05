@@ -1,0 +1,34 @@
+{
+  "name": "errsole",
+  "description": "errsole npm module",
+  "version": "0.1.3",
+  "author": "Rishi Kumar <rishi@errsole.com>",
+  "contributors": [
+    "Rishi Kumar <rishi@errsole.com>",
+    "Ganji Venkateswarlu <venki@errsole.com>"
+  ],
+  "repository": "errsole/errsole",
+  "homepage": "http://www.errsole.com/",
+  "keywords": [
+    "errsole",
+    "express",
+    "framework",
+    "debugger",
+    "http",
+    "rerun",
+    "debugging",
+    "errors"
+  ],
+  "files": [
+    "lib"
+  ],
+  "main": "lib/errsole",
+  "dependencies": {
+    "autobahn": "^20.6.1",
+    "chrome-remote-interface": "^0.28.1",
+    "form-data": "^3.0.0",
+    "jsonpath": "^1.1.0",
+    "slash": "^3.0.0",
+    "terminal-link": "^2.1.1"
+  }
+}
